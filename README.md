@@ -1,4 +1,4 @@
-# Shreddit
+# Shreddit (forked on August 20th, 2020)
 
 Shreddit is a Python command line program which will take a user's post history on the website
 [Reddit](http://reddit.com), and will systematically go through the user's history deleting one post/submission at a
